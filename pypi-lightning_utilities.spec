@@ -7,7 +7,7 @@
 #
 Name     : pypi-lightning_utilities
 Version  : 0.10.0
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/9e/76/b8891990f23c336be368112ae74210c30c79a7b77b909d94fc95450551ec/lightning-utilities-0.10.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/9e/76/b8891990f23c336be368112ae74210c30c79a7b77b909d94fc95450551ec/lightning-utilities-0.10.0.tar.gz
 Summary  : PyTorch Lightning Sample project.
