@@ -1,5 +1,5 @@
 PKG_NAME := pypi-lightning_utilities
-URL = https://files.pythonhosted.org/packages/3a/42/e900386cda132d45730f096052347bd985ce4e57293cbd0b33b2413ed140/lightning-utilities-0.11.1.tar.gz
+URL = https://files.pythonhosted.org/packages/91/e2/b18d85bab50dc26a43c0431a35c82b59e085b803d465eccf039ea415e993/lightning-utilities-0.11.2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
