@@ -7,7 +7,7 @@
 #
 Name     : pypi-lightning_utilities
 Version  : 0.11.8
-Release  : 14
+Release  : 15
 URL      : https://files.pythonhosted.org/packages/46/ab/0c421d19e316420a2d54a2da5ae4a4dcd557928ccf7953dbbe4b4eee34d6/lightning_utilities-0.11.8.tar.gz
 Source0  : https://files.pythonhosted.org/packages/46/ab/0c421d19e316420a2d54a2da5ae4a4dcd557928ccf7953dbbe4b4eee34d6/lightning_utilities-0.11.8.tar.gz
 Summary  : Lightning toolbox for across the our ecosystem.
