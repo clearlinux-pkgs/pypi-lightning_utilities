@@ -6,10 +6,10 @@
 # autospec commit: fbbd4e3
 #
 Name     : pypi-lightning_utilities
-Version  : 0.13.1
-Release  : 19
-URL      : https://files.pythonhosted.org/packages/7b/da/43848aceb479e50ed7ee7a92389fc576195542c940c3fd4197a015cc46f4/lightning_utilities-0.13.1.tar.gz
-Source0  : https://files.pythonhosted.org/packages/7b/da/43848aceb479e50ed7ee7a92389fc576195542c940c3fd4197a015cc46f4/lightning_utilities-0.13.1.tar.gz
+Version  : 0.14.1
+Release  : 20
+URL      : https://files.pythonhosted.org/packages/1c/37/ed29530e6f27a3317e741ca083ef11b7a254ad589f5b726bdb69f41b0f70/lightning_utilities-0.14.1.tar.gz
+Source0  : https://files.pythonhosted.org/packages/1c/37/ed29530e6f27a3317e741ca083ef11b7a254ad589f5b726bdb69f41b0f70/lightning_utilities-0.14.1.tar.gz
 Summary  : Lightning toolbox for across the our ecosystem.
 Group    : Development/Tools
 License  : Apache-2.0
@@ -61,10 +61,10 @@ python3 components for the pypi-lightning_utilities package.
 
 
 %prep
-%setup -q -n lightning_utilities-0.13.1
-cd %{_builddir}/lightning_utilities-0.13.1
+%setup -q -n lightning_utilities-0.14.1
+cd %{_builddir}/lightning_utilities-0.14.1
 pushd ..
-cp -a lightning_utilities-0.13.1 buildavx2
+cp -a lightning_utilities-0.14.1 buildavx2
 popd
 
 %build
@@ -72,7 +72,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1741294752
+export SOURCE_DATE_EPOCH=1742457509
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
